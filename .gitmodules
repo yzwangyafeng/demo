@@ -1,0 +1,3 @@
+[submodule "usr/package"]
+	path = usr/package
+	url = https://github.com/yzwangyafeng/submodule.git
